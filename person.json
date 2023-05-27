@@ -1,5 +1,6 @@
 {
   "name": "Kofi",
   "age": 20,
-  "profession": "developer"
+  "profession": "developer",
+  "salary": 150000
 }
